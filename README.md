@@ -23,8 +23,6 @@ After you're finished please remove all the comments and instructions!
 -->
 
 <div align="center">
-
-  <img src="Birre.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Rails frontend app</b></h3>
@@ -68,6 +66,7 @@ After you're finished please remove all the comments and instructions!
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
+<li><a href="https://github.com/IamYunusAli/rails-api.git">Backend repo</a</li>
 <details>
   <summary>Client</summary>
   <ul>
@@ -97,11 +96,8 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[]**
-  -
-  -
-- **[]**
-  -
+- **[Display unique greeting]**
+  - display unique greeting it fetched from the api
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -158,24 +154,6 @@ To run the project, execute the following command:
 npm start
 ```
 
-### Run tests
-
-To run tests, run the following command:
-```
-```
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
@@ -188,14 +166,6 @@ Example:
 - GitHub: [@IamYunusALi](https://github.com/iamyunusali)
 - Twitter: [@IamYunusAli](https://twitter.com/iamyunusali)
 - LinkedIn: [Yunus Ali](https://linkedin.com/in/iamyunusali)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -215,7 +185,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project kindlt ⭐️ the repo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -225,23 +195,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
+I would like to thank Microvieser whole team and Code Reviewers
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
